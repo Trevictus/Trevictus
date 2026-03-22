@@ -1,16 +1,45 @@
-### Hi there 👋
+<div align="center">  
+  
+# Greetings 🤝💥 My name is Víctor
 
-<!--
-**Trevictus/Trevictus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+> Developer in training with a clear mindset: turning the technical into something understandable and useful for people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My approach
+I transform complex concepts into clear explanations.
+I care as much about how something works as about how it is understood.
+
+- 🎯 I organize ideas, organize code, and support anyone who needs it.
+- 🔨 I’m currently working in the industrial laundry sector...
+- 🖥️ ... While studying Applications Web Development at [IES Rafael Alberti](https://www.iesrafaelalberti.es).
+- 🌻 I’m looking to collaborate on projects where I can grow.
+- 🫂 You can ask me about whatever you want and if I will inform myself before answering.
+- 📫 I´m Contactable through this email -> [vgomtej353@g.educaand.es](mailto:vgomtej353@g.educaand.es)
+
+---
+
+<div align="center">
+
+### Technologies that I know
+
+
+
+
+[![My languajes](https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin)](https://skillicons.dev)
+
+[![My frameworks](https://skillicons.dev/icons?i=react,sass,express,spring)](https://skillicons.dev)
+
+[![My db](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+[![My DevOps](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+
+[![My tools](https://skillicons.dev/icons?i=vscode,webstorm,idea,figma,sketchup,postman,npm,gradle,maven)](https://skillicons.dev)
+
+</div>
+
+---
+
+
