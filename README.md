@@ -49,9 +49,15 @@ I care as much about how something works as about how it is understood.
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trevictus&theme=dark" alt="anii693" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trevictus&show_icons=true&theme=tokyonight" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevictus&layout=compact&theme=tokyonight" />
 </div>
+
+
