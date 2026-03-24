@@ -17,16 +17,13 @@ I care as much about how something works as about how it is understood.
 - 🖥️ ... While studying Applications Web Development at [IES Rafael Alberti](https://www.iesrafaelalberti.es).
 - 🌻 I’m looking to collaborate on projects where I can grow.
 - 🫂 You can ask me about whatever you want and if I will inform myself before answering.
-- 📫 I´m Contactable through this email -> [vgomtej353@g.educaand.es](mailto:vgomtej353@g.educaand.es)
+- 📫 I´m contactable through this email -> [vgomtej353@g.educaand.es](mailto:vgomtej353@g.educaand.es)
 
 ---
 
 <div align="center">
 
 ### Technologies that I know
-
-
-
 
 [![My languajes](https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin)](https://skillicons.dev)
 
@@ -49,15 +46,15 @@ I care as much about how something works as about how it is understood.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trevictus&theme=dark" alt="anii693" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trevictus&theme=tokyonight" alt="Víctor´s streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trevictus&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trevictus&show_icons=true&theme=tokyonight" alt="Víctor´s GitHub stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevictus&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevictus&layout=compact&theme=tokyonight" alt="Víctor´s langs" />
 </div>
 
 
