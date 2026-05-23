@@ -50,7 +50,7 @@ I care as much about how something works as about how it is understood.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trevictus&theme=tokyonight" alt="Víctor´s Activity Graph" width="700" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trevictus&color=2dde98&line=2dde98&point=bf91f3&bg_color=1a1b27&area=true" alt="Víctor's Activity Graph" width="700" />
 </div>
 
 <div align="center">
