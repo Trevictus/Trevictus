@@ -46,15 +46,13 @@ I care as much about how something works as about how it is understood.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trevictus&theme=tokyonight" alt="Víctor´s streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trevictus&theme=tokyonight" alt="Víctor´s streak" width="600" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trevictus&show_icons=true&theme=tokyonight" alt="Víctor´s GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trevictus&theme=tokyonight" alt="Víctor´s Activity Graph" width="700" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevictus&layout=compact&theme=tokyonight" alt="Víctor´s langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=trevictus&theme=tokyonight" alt="Víctor´s Trophies"  width="800"/>
 </div>
-
-
