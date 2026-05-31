@@ -9,8 +9,7 @@
 ---
 
 ## My approach
-I transform complex concepts into clear explanations.
-I care as much about how something works as about how it is understood.
+My talent shines when I can design or create something, making sure it is useful and real, and also has a positive impact on people or my team.
 
 - 🎯 I organize ideas, organize code, and support anyone who needs it.
 - 🔨 I’m currently working in the industrial laundry sector...
